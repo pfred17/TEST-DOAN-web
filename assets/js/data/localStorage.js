@@ -7,8 +7,6 @@ function saveUserToLocalStorage(username, password) {
     id: userArr.length + 1,
     username: username,
     password: password,
-    cart: [],
-    orders: [],
   };
 
   // Thêm userObj mới vào mảng userArr

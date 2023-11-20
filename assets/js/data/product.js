@@ -628,7 +628,7 @@ const renderProductDetail = () => {
       <button class="detail_buy" onclick="notificationAdmin('CHỨC NĂNG CHƯA HOÀN THIỆN')">MUA NGAY</button>
       <div class="detail_form-buy">
         <button class="detail_amortization" onclick="notificationAdmin('CHỨC NĂNG CHƯA HOÀN THIỆN')">MUA TRẢ GÓP</button>
-        <button class="detail_card" onclick="notificationAdmin('CHỨC NĂNG CHƯA HOÀN THIỆN')">
+        <button class="detail_card" onclick="notificationAdmin('CHỨC NĂNG CHƯA HOÀN THIỆN')"  >
           TRẢ BẰNG THẺ</button>
       </div>
     </div>
